@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe5b79e0-4ba2-4bb0-8eb0-ddd54fc8243c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fe5b79e0-4ba2-4bb0-8eb0-ddd54fc8243c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/amazon_scrapy/spiders/amazon_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -121,7 +119,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="399" />
     <option name="y" value="123" />
     <option name="width" value="1171" />
@@ -247,8 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon_scrapy/spiders/amazon_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
